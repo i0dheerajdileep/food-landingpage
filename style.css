@@ -1,0 +1,23 @@
+img.slide
+{
+    height: 600px;
+}
+footer a{
+    color: #fff;
+    text-decoration-line: none;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer a:hover{
+    color: #3a8878;
+}
+.bg-custom
+{
+ background-color: black;
+}
+
+.nav-link{
+    color: white !important;
+
+}
